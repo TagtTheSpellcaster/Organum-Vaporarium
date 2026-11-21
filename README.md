@@ -14,6 +14,8 @@ Gioco di memoria steampunk in un unico file HTML, nello stile del Simon: un orga
 
 **BREVETTO MECCANICO 1.2 – 1894**
 
+[Puoi giocarci qui](https://tagtthespellcaster.github.io/Organum-Vaporarium/)
+
 ## Requisiti
 
 - Un browser moderno con supporto per HTML5 Canvas e Web Audio.
